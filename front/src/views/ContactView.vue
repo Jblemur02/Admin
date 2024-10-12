@@ -68,7 +68,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 #contact {
   width: 90%;
   margin: 0 auto;
